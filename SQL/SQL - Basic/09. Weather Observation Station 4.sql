@@ -1,0 +1,3 @@
+-- It works well with MS SQL Server and MySQL
+SELECT COUNT(CITY) - COUNT(DISTINCT CITY)
+FROM STATION;
