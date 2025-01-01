@@ -1,0 +1,5 @@
+-- It works well with MS SQL Server and MySQL
+SELECT NAME
+FROM CITY
+WHERE COUNTRYCODE = 'USA'
+  AND POPULATION > 120000;
