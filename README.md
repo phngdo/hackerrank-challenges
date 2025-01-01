@@ -2,7 +2,7 @@
 
 # 1. SQL Challenges:
 
-*Currently, I use **MSSQL** and **MySQL** to solve cases*.
+*Currently, I use **MS SQL Server** and **MySQL** to solve cases*.
 
 - [ ] SQL - Basic
 - [ ] SQL - Intermediate
