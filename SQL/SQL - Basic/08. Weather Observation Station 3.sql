@@ -1,0 +1,9 @@
+-- It works well with MS SQL Server and MySQL
+SELECT DISTINCT CITY
+FROM STATION
+WHERE ID % 2 = 0;
+
+-- Other of MySQL
+SELECT DISTINCT CITY
+FROM STATION
+WHERE MOD(ID, 2) = 0;
