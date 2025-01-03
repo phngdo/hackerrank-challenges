@@ -1,4 +1,4 @@
--- MS SQL Server
+-- It works well with MS SQL Server and MySQL
 SELECT student.roll_number,
        student.name
 FROM student_information AS student
